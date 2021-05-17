@@ -284,8 +284,8 @@ main {
 }
 
 .Githubimg {
-    /* max-width: 100px; */
-    /* max-height: 100px; */
+    max-width: 200px;
+    max-height: 200px;
 }
 
 
@@ -294,7 +294,7 @@ main {
 .grid-container {
     display: grid;
     grid-template-columns: repeat(1, minmax(0, 1fr));
-    grid-template-rows: 200px 200px;
+    grid-template-rows: 400px 400px;
     /* text-align: center; */
     padding-top: 20px;
     grid-gap: 20px;
