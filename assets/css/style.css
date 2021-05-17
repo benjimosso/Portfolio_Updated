@@ -315,23 +315,6 @@ main {
 }
 
 
-/* ray scale effect hover */
-
-.item img {
-    filter: grayscale(100%);
-    -webkit-filter: grayscale(100%);
-    -webkit-transition: all 1s ease
-}
-
-.item img:hover {
-    filter: grayscale(0%);
-    filter: gray;
-    -webkit-filter: grayscale(0%);
-    filter: none;
-    transition: 1s ease;
-}
-
-
 /* Text inside images on grid */
 
 .inbox-text {
