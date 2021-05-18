@@ -15,4 +15,4 @@ Github Publication:
 https://benjimosso.github.io/Portfolio_Updated/
 
 Screenshot:
-![Screenshot]()
+![Screenshot](https://github.com/benjimosso/Portfolio_Updated/blob/main/assets/Screenshot.PNG)
